@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6a482b945a44ed2b80d93937ce97d7, type: 3}
+  m_Name: CrazyPawnSettings
+  m_EditorClassIdentifier: 
+  <InitialZoneRadius>k__BackingField: 10
+  <InitialPawnCount>k__BackingField: 7
+  <DeleteMaterial>k__BackingField: {fileID: 2100000, guid: 854bcfe2fa381404e981b4cafde1e4df,
+    type: 2}
+  <ActiveConnectorMaterial>k__BackingField: {fileID: 2100000, guid: 27c0a93bfcbcf4070978f6b70d2766ce,
+    type: 2}
+  <CheckerboardSize>k__BackingField: 18
+  <BlackCellColor>k__BackingField: {r: 0.3584906, g: 0.06792454, b: 0, a: 1}
+  <WhiteCellColor>k__BackingField: {r: 0.3367877, g: 0.17061234, b: 0.509434, a: 1}
